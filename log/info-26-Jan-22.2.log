@@ -1,0 +1,4 @@
+26-Jan-22 16:38:16 [http-nio-8080-exec-7] DEBUG : "ERROR" dispatch for GET "/error", parameters={}
+26-Jan-22 16:38:16 [http-nio-8080-exec-7] DEBUG : Mapped to org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController#errorHtml(HttpServletRequest, HttpServletResponse)
+26-Jan-22 16:38:16 [http-nio-8080-exec-7] DEBUG : Selected 'text/html' given [text/html, text/html;q=0.8]
+26-Jan-22 16:38:16 [http-nio-8080-exec-7] DEBUG : Exiting from "ERROR" dispatch, status 500
